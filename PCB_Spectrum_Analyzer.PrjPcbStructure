@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=AudioFrontend.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AudioFrontend.SchDoc|FileName=BluetoothModule.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AudioFrontend.SchDoc|FileName=ClockGenerator.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AudioFrontend.SchDoc|FileName=ESP32-Controls.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AudioFrontend.SchDoc|FileName=SpectrumAnalyzer.SchDoc|SheetNumber=3

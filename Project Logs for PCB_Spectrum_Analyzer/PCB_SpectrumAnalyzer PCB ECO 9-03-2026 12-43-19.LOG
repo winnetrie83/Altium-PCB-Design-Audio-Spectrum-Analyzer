@@ -1,0 +1,211 @@
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Add component: Footprint Not Found CAPC2013X145X48NL20T23
+Added Component: Designator=H1(SMTC-SSW-112-01-X-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSW_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSW-1XX-XX-XXX-X-XX-XXX-XX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .016 X .031 Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSW-105-01-X-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "CA, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSW-105-01-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Component: Designator=H2(SMTC-SSW-112-01-X-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/SSW_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/SSW-1XX-XX-XXX-X-XX-XXX-XX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Assembly, Socket Strip .016 X .031 Tail"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SSW-105-01-X-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "CA, 6/1987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSW-105-01-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Add component: Footprint Not Found JST_B3B-PH-K-S
+Add component: Footprint Not Found JST_B6B-PH-K
+Add component: Footprint Not Found SAMTEC_MTSW-101-X-X-D-X
+Add component: Footprint Not Found SAMTEC_MTSW-101-X-X-D-X
+Add component: Footprint Not Found SAMTEC_MTSW-101-X-X-D-X
+Add component: Footprint Not Found JST_B3B-PH-K-S
+Add component: Footprint Not Found JST_B3B-PH-K-S
+Add component: Footprint Not Found JST_B6B-PH-K
+Add component: Footprint Not Found TRANS_BC547C
+Add component: Footprint Not Found TO254P1054X469X1930-3
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Added Component: Designator=R6(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Add component: Footprint Not Found FP-RT0805-MFG
+Added Component: Designator=R14(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found FP-SI5351A-B-GTR-IPC_A
+Add component: Footprint Not Found FP-SO-16-IPC_B
+Add component: Footprint Not Found SOIC8
+Add component: Footprint Not Found SOIC8
+Add component: Footprint Not Found SOIC8
+Add component: Footprint Not Found DIP762W45P254L1950H420Q14
+Add component: Footprint Not Found DIP762W45P254L1950H420Q14
+Add component: Footprint Not Found ABM8W_MFG
+Added Pin To Net: NetName=3.3V Pin=H1-3
+Added Pin To Net: NetName=3.3V Pin=R14-3
+Added Pin To Net: NetName=3.3V Pin=R15-3
+Added Pin To Net: NetName=3.3V Pin=R16-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=H1-1
+Added Net: Name=5V
+Added Net: Name=AGND
+Added Pin To Net: NetName=DGND Pin=H1-2
+Added Pin To Net: NetName=DGND Pin=R6-3
+Added Pin To Net: NetName=DGND Pin=R7-3
+Added Pin To Net: NetName=DGND Pin=R14-1
+Added Pin To Net: NetName=DGND Pin=R15-1
+Added Pin To Net: NetName=DGND Pin=R16-1
+Added Net: Name=DGND
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Net: Name=NetC3_2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=R7-2
+Added Net: Name=NetC4_2
+Added Net: Name=NetC5_2
+Added Net: Name=NetC10_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC16_1
+Added Net: Name=NetC16_2
+Added Net: Name=NetC17_1
+Added Net: Name=NetC18_1
+Added Net: Name=NetCN1_1
+Added Net: Name=NetCN1_2
+Added Net: Name=NetCN2_1
+Added Net: Name=NetCN2_2
+Added Pin To Net: NetName=NetH1_4 Pin=H1-4
+Added Net: Name=NetH1_4
+Added Pin To Net: NetName=NetH1_5 Pin=H1-5
+Added Net: Name=NetH1_5
+Added Pin To Net: NetName=NetH1_6 Pin=H1-6
+Added Net: Name=NetH1_6
+Added Pin To Net: NetName=NetH1_7 Pin=H1-7
+Added Net: Name=NetH1_7
+Added Pin To Net: NetName=NetH1_8 Pin=H1-8
+Added Net: Name=NetH1_8
+Added Pin To Net: NetName=NetH1_9 Pin=H1-9
+Added Net: Name=NetH1_9
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=R16-2
+Added Net: Name=NetH2_4
+Added Pin To Net: NetName=NetH2_5 Pin=H2-5
+Added Pin To Net: NetName=NetH2_5 Pin=R15-2
+Added Net: Name=NetH2_5
+Added Pin To Net: NetName=NetH2_6 Pin=H2-6
+Added Pin To Net: NetName=NetH2_6 Pin=R14-2
+Added Net: Name=NetH2_6
+Added Pin To Net: NetName=NetH2_7 Pin=H2-7
+Added Net: Name=NetH2_7
+Added Pin To Net: NetName=NetJ1_1 Pin=R6-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=R7-1
+Added Net: Name=NetJ1_2
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ3_4
+Added Net: Name=NetJ3_6
+Added Net: Name=NetQ1_2
+Added Net: Name=NetR3_2
+Added Net: Name=NetR10_1
+Added Net: Name=NetR11_1
+Added Net: Name=NetR12_1
+Added Net: Name=NetR13_1
+Added Net: Name=NetU1_2
+Added Net: Name=NetU1_3
+Added Net: Name=NetU1_6
+Added Net: Name=NetU1_9
+Added Net: Name=NetU1_10
+Added Net: Name=NetU3_5
+Added Net: Name=NetU7_2
+Added Class: Name=AudioFrontend
+Added Class: Name=BluetoothModule
+Added Class: Name=ClockGenerator
+Added Class: Name=ESP32-Controls
+Added Class: Name=LED-Driver
+Added Class: Name=SpectrumAnalyzer
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
