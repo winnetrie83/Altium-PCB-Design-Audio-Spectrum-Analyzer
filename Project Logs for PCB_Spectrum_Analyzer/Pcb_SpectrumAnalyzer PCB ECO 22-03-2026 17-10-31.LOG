@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=5V Pin=H1-1
+Removed Pin From Net: NetName=AGND Pin=H1-2
+Removed Pin From Net: NetName=3.3V Pin=H1-3
+Removed Pin From Net: NetName=NetH1_8 Pin=H1-8
+Removed Pin From Net: NetName=NetH1_9 Pin=H1-9
+Removed Member From Class: ClassName=ESP32-Controls Member=H1
+Removed Member From Class: ClassName=ESP32-Controls Member=H2
+Change Component Description : Designator=X1 Old Description=Crystal 25.0000Mhz 8Pf Smd Rohs Compliant: Yes New Description=Crystal 25.0000Mhz 8Pf Smd Rohs Compliant: Yes |Abracon ABM8W-25.0000MHZ-8-D1X-T3
+Add Pin To Net: Unknown Pin: Pin ESP32-1
+Add Pin To Net: Unknown Pin: Pin ESP32-2
+Add Pin To Net: Unknown Pin: Pin ESP32-3
+Add Pin To Net: Unknown Pin: Pin ESP32-8
+Add Pin To Net: Unknown Pin: Pin ESP32-9
+Change Net Name : Old Net Name=NetH1_8 New Net Name=NetESP32_8
+Change Net Name : Old Net Name=NetH1_9 New Net Name=NetESP32_9
+Added Pin To Net: NetName=NetESP32_4 Pin=R1-1
+Added Pin To Net: NetName=NetESP32_4 Pin=U1-5
+Added Net: Name=NetESP32_4
+Added Pin To Net: NetName=NetESP32_5 Pin=R2-1
+Added Pin To Net: NetName=NetESP32_5 Pin=U1-4
+Added Net: Name=NetESP32_5
+Added Pin To Net: NetName=NetESP32_6 Pin=J24-2
+Added Net: Name=NetESP32_6
+Added Pin To Net: NetName=NetESP32_12 Pin=Q1-1
+Added Net: Name=NetESP32_12
+Added Pin To Net: NetName=NetESP32_13 Pin=R14-2
+Added Net: Name=NetESP32_13
+Added Pin To Net: NetName=NetESP32_14 Pin=R15-2
+Added Net: Name=NetESP32_14
+Added Pin To Net: NetName=NetESP32_15 Pin=R16-2
+Added Net: Name=NetESP32_15
+Added Pin To Net: NetName=NetESP32_16 Pin=U6-3
+Added Net: Name=NetESP32_16
+Added Pin To Net: NetName=NetESP32_17 Pin=U5-3
+Added Net: Name=NetESP32_17
+Added Pin To Net: NetName=NetESP32_18 Pin=U4-3
+Added Net: Name=NetESP32_18

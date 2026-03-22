@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=AGND Pin=C5-1
+Removed Pin From Net: NetName=AGND Pin=C6-2
+Removed Pin From Net: NetName=AGND Pin=J1-3
+Removed Pin From Net: NetName=AGND Pin=U2-9
+Removed Pin From Net: NetName=AGND Pin=U2-11
+Added Component: Designator=ESP32(ESP32_placeholder)
+Added Component: Designator=NT(NT)
+Added Pin To Net: NetName=5V Pin=ESP32-1
+Added Pin To Net: NetName=AGND Pin=ESP32-2
+Added Pin To Net: NetName=3.3V Pin=ESP32-3
+Added Pin To Net: NetName=NetESP32_4 Pin=ESP32-4
+Added Pin To Net: NetName=NetESP32_5 Pin=ESP32-5
+Added Pin To Net: NetName=NetESP32_6 Pin=ESP32-6
+Added Pin To Net: NetName=NetESP32_8 Pin=ESP32-8
+Added Pin To Net: NetName=NetESP32_9 Pin=ESP32-9
+Added Pin To Net: NetName=NetESP32_12 Pin=ESP32-12
+Added Pin To Net: NetName=NetESP32_13 Pin=ESP32-13
+Added Pin To Net: NetName=NetESP32_14 Pin=ESP32-14
+Added Pin To Net: NetName=NetESP32_15 Pin=ESP32-15
+Added Pin To Net: NetName=NetESP32_16 Pin=ESP32-16
+Added Pin To Net: NetName=NetESP32_17 Pin=ESP32-17
+Added Pin To Net: NetName=NetESP32_18 Pin=ESP32-18
+Add Pin To Net: Unknown Pin: Pin NT-2
+Change Net Name : Old Net Name=AGND New Net Name=DGND
+Added Pin To Net: NetName=AGND Pin=C5-1
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=AGND Pin=J1-3
+Added Pin To Net: NetName=AGND Pin=U2-9
+Added Pin To Net: NetName=AGND Pin=U2-11
+Added Net: Name=AGND
+Added Member To Class: ClassName=ESP32-Controls Member=Component ESP32 ESP32_Placeholder
+Added Member To Class: ClassName=ESP32-Controls Member=Component NT
+Added Rule: Name=Schematic Supply Nets_4
