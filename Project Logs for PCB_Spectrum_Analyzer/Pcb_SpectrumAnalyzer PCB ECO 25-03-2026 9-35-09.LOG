@@ -1,0 +1,4 @@
+Added Component: Designator=U3(ESP32_placeholder)
+Add Pin To Net: Unknown Pin: Pin NT-1
+Add Pin To Net: Unknown Pin: Pin NT-2
+Added Member To Class: ClassName=BluetoothModule Member=Component U3 m18 BT audio in

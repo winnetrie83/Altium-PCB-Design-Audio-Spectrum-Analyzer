@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=DGND Pin=C20-1
+Removed Pin From Net: NetName=DGND Pin=J7-01
+Removed Pin From Net: NetName=DGND Pin=J8-01
+Removed Pin From Net: NetName=DGND Pin=J9-01
+Removed Pin From Net: NetName=DGND Pin=J11-2
+Removed Pin From Net: NetName=5V Pin=Q2-3
+Removed Pin From Net: NetName=DGND Pin=R25-1
+Change Component Description : Designator=X1 Old Description=Crystal 25.0000Mhz 8Pf Smd Rohs Compliant: Yes New Description=Crystal 25.0000Mhz 8Pf Smd Rohs Compliant: Yes |Abracon ABM8W-25.0000MHZ-8-D1X-T3
+Added Component: Designator=U3(ESP32_placeholder)
+Added Pin To Net: NetName=5V Pin=J10-1
+Added Pin To Net: NetName=5V Pin=J11-1
+Add Pin To Net: Unknown Pin: Pin NT-1
+Add Pin To Net: Unknown Pin: Pin NT-2
+Added Pin To Net: NetName=DGND Pin=Q2-2
+Added Pin To Net: NetName=5V Pin=U7-14
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=J7-01
+Added Pin To Net: NetName=GND Pin=J8-01
+Added Pin To Net: NetName=GND Pin=J9-01
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Net: Name=GND
+Added Member To Class: ClassName=BluetoothModule Member=Component U3 m18 BT audio in
+Added Rule: Name=Schematic Supply Nets_5
