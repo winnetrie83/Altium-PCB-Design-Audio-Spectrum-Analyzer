@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Spectrum_Analyzer.PrjPcb]
+   Generated File[Pcb_SpectrumAnalyzer.TXT]
+   Generated File[Pcb_SpectrumAnalyzer.LDP]
+   Generated File[Pcb_SpectrumAnalyzer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:40:04 On 25/03/2026
